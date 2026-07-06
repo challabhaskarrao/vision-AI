@@ -10,6 +10,9 @@
 [![Gemini AI](https://img.shields.io/badge/Gemini-AI%20Powered-4285F4?style=for-the-badge&logo=google)](https://ai.google.dev)
 [![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev)
 [![Status](https://img.shields.io/badge/Status-%E2%9C%85%20Completed-brightgreen?style=for-the-badge)]()
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-FF6B6B?style=for-the-badge)](https://vision-ai-murex-five.vercel.app)
+
+### 🌐 [**➡️ LIVE DEMO: vision-ai-murex-five.vercel.app**](https://vision-ai-murex-five.vercel.app) 🗽
 
 </div>
 
@@ -20,6 +23,8 @@
 > **Vision AI** is a next-generation, AI-powered clinical screening platform that unifies all **10 ICMR Eye Care Priority Topics** into a single, beautifully interactive diagnostic dashboard. Powered by **Google Gemini AI**, it performs multi-modal retinal image analysis with precision rivaling specialist clinicians — right from your browser. 🧠👁️
 
 Think of it as the **Times Square** of eye care diagnostics — everything in one dazzling, high-powered hub! 🏙️🌟
+
+> 🔗 **Try it live right now →** **[https://vision-ai-murex-five.vercel.app](https://vision-ai-murex-five.vercel.app)** ✨
 
 ---
 
@@ -122,7 +127,7 @@ vision-AI/
 
 ```bash
 # 1️⃣  Clone the repository
-git clone https://github.com/challabhaskarrao205-debug/vision-AI.git
+git clone https://github.com/challabhaskarrao/vision-AI.git
 cd vision-AI
 
 # 2️⃣  Install dependencies
@@ -135,6 +140,8 @@ echo "GEMINI_API_KEY=your_api_key_here" > .env
 # 4️⃣  Start the development server
 npm run dev
 ```
+
+> 🚀 **Or skip setup entirely — try the live demo at [https://vision-ai-murex-five.vercel.app](https://vision-ai-murex-five.vercel.app)**
 
 > 🌐 Open your browser and navigate to **http://localhost:3000**
 
@@ -222,7 +229,11 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 **⭐ If you found this helpful, give it a star! It helps more clinicians find this tool! ⭐**
 
+[![GitHub Stars](https://img.shields.io/github/stars/challabhaskarrao/vision-AI?style=social)](https://github.com/challabhaskarrao/vision-AI)
+
 ---
+
+### 🌐 Live at: [vision-ai-murex-five.vercel.app](https://vision-ai-murex-five.vercel.app) 🚀
 
 *🗺️ Manhattan → Brooklyn → Queens → Bronx → Staten Island — Vision AI covers it all, just like NYC covers everything! 🗽*
 
